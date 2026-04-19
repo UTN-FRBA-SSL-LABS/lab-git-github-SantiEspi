@@ -12,7 +12,7 @@ int restar(int a, int b) {
     return a - b;
 }
 
-/*lo que hace esta función es multiplicar dos números enteros guardados en a y b, cuando se le solicita e invoca la funcion multiplicar*/
+/*lo que hace esta función es multiplicar dos números enteros guardados en a y b, cuando se le solicita e invoca la función multiplicar*/
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
 int multiplicar(int a, int b) {
